@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css");
+
+
+section{
+    margin: 0;
+    min-height: 100vh;
+  }
+  .left{
+    min-height: 100vh;
+  }
+  .left ul{
+    list-style-type: none;
+    
+  }
+  .left ul li{
+    padding: 10px 0px 10px;
+  }
+  .right ul li{
+    padding: 10px;
+    list-style: none;
+  }
+   
